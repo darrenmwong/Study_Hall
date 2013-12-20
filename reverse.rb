@@ -4,3 +4,5 @@ puts nameToReverse.reverse
 
 #invading your privacy! -Kevin
 
+puts "This is a reverse method"
+
